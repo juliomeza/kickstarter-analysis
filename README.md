@@ -23,7 +23,7 @@
 - What are some other possible tables and/or graphs that we could create?
 
 
-![Image01](https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png=100x20)
+![Image01](https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png =100x20)
 
 
 
