@@ -25,7 +25,7 @@
 
 ![Image01](https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png =100x20)
 
-
+<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="200">
 
 
 # An Analysis of Kickstarter Campaigns
