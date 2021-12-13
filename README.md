@@ -7,10 +7,10 @@ The purpose of this project is to know how other campaigns fared in relation to 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="800">
+<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="600">
 
 ### Analysis of Outcomes Based on Goals
-<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="800">
+<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="600">
 
 
 ### Challenges and Difficulties Encountered
