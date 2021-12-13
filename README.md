@@ -8,7 +8,7 @@ The purpose of this project is to know how other campaigns fared in relation to 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 The best months to launch a campaing are May, June and July. Where the successul over failed ratio is 2 to 1, which is double the average ratio of 1/1.
----
+
 <img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="600">
 
 ### Analysis of Outcomes Based on Goals
