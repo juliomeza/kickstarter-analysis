@@ -7,7 +7,12 @@ The purpose of this project is to know how other campaigns fared in relation to 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="800">
+
 ### Analysis of Outcomes Based on Goals
+<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="800">
+
+
 ### Challenges and Difficulties Encountered
 
 
@@ -17,5 +22,3 @@ The purpose of this project is to know how other campaigns fared in relation to 
 - What can you conclude about the Outcomes based on Goals?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create?
-
-<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="800">
