@@ -21,8 +21,8 @@ Around 75% of the campaigns succeed when the goal is less than $5000.
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The best month to launch a campaign is May.
-The worst month to launch a campaign is December.
+1. The best month to launch a campaign is May.
+2. The worst month to launch a campaign is December.
 - What can you conclude about the Outcomes based on Goals?
 Since the purpose of this capmaigns is to raise money, I will conclude that the best goal is any amount between $1000 and $5000, and to avoid goals between $25000 and $35000 as well as over $45000.
 - What are some limitations of this dataset?
