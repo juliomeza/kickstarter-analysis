@@ -25,9 +25,9 @@ The challenges I encountered are related to understanding the request and sumari
 - What can you conclude about the Outcomes based on Goals?
 1. Since the purpose of this capmaign is to raise money, I will suggest to set the goal between $1000 and $5000, and avoind setting goals between $25000 and $35000 as well as over $45000.
 - What are some limitations of this dataset?
-1. To have a better prediction we will need to analize the data by City. People behaves differently between cities.
+1. The City column is missing. To have a better prediction we will need to analize the data by City. People behaves differently between cities.
 2. The dataset does not contain recent campaings. The most recent data points are from 2017 which represents only 12 percent of the data collected in 2015.
 - What are some other possible tables and/or graphs that we could create?
 1. Number of campains per year.
-2. Day of the week launch date versus success and faild.
-3. Campaing number of days.
+2. Launch Day of the week versus success and faild.
+3. Campaing duration (number of days).
