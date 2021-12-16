@@ -11,7 +11,7 @@ Based on the picture below, I recommend to launch the campaing in May, June or J
 <img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="600">
 
 ### Analysis of Outcomes Based on Goals
-Depending on how much money is needed for the project, the chances to succeed is around 75% for a goal of less $5000.
+Depending on how much money is needed for the project, the chances to succeed is around 75% for a goal of less than $5000.
 
 <img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png" width="600">
 
